@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: KelvinZhang's Blog
 subtitle:
-description:
+description: Games, Tech
 author: KelvinZhang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -84,7 +84,7 @@ keywords: "NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2019
