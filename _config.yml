@@ -6,7 +6,7 @@
 # Site
 title: KelvinZhang's Blog
 subtitle:
-description: Games, Tech
+description: 编程, 游戏开发, 技术
 author: KelvinZhang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: kelvinzhang95.com
 baseurl:
 permalink: pretty
 
@@ -87,7 +87,7 @@ keywords: "NexT"
 rss: false
 
 # Specify the date when the site was setup
-#since: 2019
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -554,7 +554,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
