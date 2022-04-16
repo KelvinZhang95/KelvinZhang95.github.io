@@ -3,11 +3,13 @@ title: Lua中的string连接
 date: 2019-12-23 22:09:02
 tags: [Lua]
 categories: 技术文章
+excerpt_separator: <!--more-->
 ---
 
 # Lua中的string连接
 
 Lua中常用的字符串连接有三种：1 直接用`..` 2 `table.concat()` 3 `string.format()`，但是三者性能表现有很大差距，而且有些情况下还会因为使用方法不当产生巨大的内存开销，有必要研究一下其中的原理。
+<!--more-->
 
 ### ..连接符
 
